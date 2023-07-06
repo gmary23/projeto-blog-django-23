@@ -1,0 +1,4 @@
+# Usando dentro do conteiner docker
+Django>=4.2.1, < 4.3 # limita o processo de atualização do Django
+psycopg2-binary>=2.9.6, <2.10 # usado para fazer a comunicação postgree SQL
+#
